@@ -147,7 +147,7 @@ website_text.focus()
 
 username_text = ttk.Entry(width=35, font=FONT)
 username_text.grid(row=2, column=1, columnspan=2, sticky='EW')
-username_text.insert(0, 'Maxwell200073@outlook.com')
+username_text.insert(0, 'SampleEmail@outlook.com')
 
 password_text = ttk.Entry(width=23, font=FONT)
 password_text.grid(row=3, column=1, sticky='EW')
